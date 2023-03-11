@@ -1,0 +1,15 @@
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\bin\Debug\net6.0\4.exe
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\bin\Debug\net6.0\4.deps.json
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\bin\Debug\net6.0\4.runtimeconfig.json
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\bin\Debug\net6.0\4.dll
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\bin\Debug\net6.0\4.pdb
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\obj\Debug\net6.0\4.csproj.AssemblyReference.cache
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\obj\Debug\net6.0\4.GeneratedMSBuildEditorConfig.editorconfig
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\obj\Debug\net6.0\4.AssemblyInfoInputs.cache
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\obj\Debug\net6.0\4.AssemblyInfo.cs
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\obj\Debug\net6.0\4.csproj.CoreCompileInputs.cache
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\obj\Debug\net6.0\4.dll
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\obj\Debug\net6.0\refint\4.dll
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\obj\Debug\net6.0\4.pdb
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\obj\Debug\net6.0\4.genruntimeconfig.cache
+D:\рабочий стол\ИИТТ\Лаб.Работы\8final\C#\4\obj\Debug\net6.0\ref\4.dll
